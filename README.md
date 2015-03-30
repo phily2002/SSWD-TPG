@@ -1,5 +1,5 @@
 # SSWD-TPG
-SSWD Games Review Website
+SSWD Games Review Website edited by Phil
 
 Project Team: Peter Griffin
 Team: Anthony, Dave and Phil 
