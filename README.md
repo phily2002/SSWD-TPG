@@ -10,7 +10,7 @@ Project Milestones:
 
 ==25%==
 SQL database and Tables setup
-SQl tables populated with some data
+SQl tables populated with some data.
 Main Page.php 
 Registration form 
 
